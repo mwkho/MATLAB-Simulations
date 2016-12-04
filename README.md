@@ -1,3 +1,3 @@
-# OneDim_PIB_Simulation
+# MATLAB Simulations
 
-A MATLAB script that simulates the nth stationary state or a non-stationary state in the particle in a box problem.
+A collection of MATLAB Scripts to simulate stationary and non stationary states in different potentials.
